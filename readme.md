@@ -3,16 +3,10 @@
 </p>
 
 <h1 align="center">Hi, I'm Anubhav Goyal</h1>
-<h3 font-size="20" align="center">A passionate Machine learning student from India.</h3>
 <br>
 
-<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 👨‍💻 I
-- 📚  I’m looking to collaborate on **Machine learning projects**
-- 💪🏼 Future Goals: Get involved in the **WEB-3** Space
 
---- -->
 
 
 <h2 align="center">
